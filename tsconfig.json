@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "outDir": "./dist",
+    "skipLibCheck": true,
+    "allowJs": true,
+    "incremental": true,
+    "target": "ES2022",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": false,
+    "experimentalDecorators": true,
+    "noUnusedLocals": false,
+    "jsx": "react",
+    "forceConsistentCasingInFileNames": false,
+    "declaration": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["src", "**/*.ts"],
+  "exclude": ["node_modules", "lib"],
+}
