@@ -28,7 +28,7 @@ AccordionCraft.craft = {
 
 export const AccordionMain = () => {
   return (
-    <Element canvas id="accordion" is={Accordion} data-cy="accordion">
+    <Element canvas id="accordion" is={AccordionCraft} data-cy="accordion">
       <AccordionItem id="1" title='Accordion Item Title' content='Accordion Item Content' />
     </Element>
   );

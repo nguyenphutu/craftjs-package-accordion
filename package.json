@@ -1,6 +1,6 @@
 {
-  "name": "package-craftjs-text",
-  "version": "1.0.5",
+  "name": "tunp-package-craftjs-accordion",
+  "version": "0.0.1",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./lib/index.d.ts",
